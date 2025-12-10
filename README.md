@@ -1,6 +1,7 @@
-# scanrpll
+# File Release udah ada,liat di tab samping,ada release,download itu buat window 10/11,klo ga bisa ya pake source code nya langsung
 
-Buka di VSCODE itu Main.py
+Instruksi source code (Source code itu Main.py)
+Buka Main.py di VSCODE
 
 Req biar bisa di buka
 
