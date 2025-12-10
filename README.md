@@ -9,3 +9,5 @@ Req biar bisa di buka
 3. di vscode install dependency pake ```pip install tensorflow opencv-python pyqt5 supabase numpy```
 4. Taruh Model nya di Directory nya yg sama kek project
 5. Terus run pake command di terminal ```python main.py```
+
+di Linux sama aja asal versi nya 3.11.*
